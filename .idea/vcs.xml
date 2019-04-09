@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ophis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cbmconvert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc65" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ghdl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/iverilog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/mega65-fdisk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/mega65-fdisk/cc65" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/mega65-freezemenu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/mega65-freezemenu/cc65" vcs="Git" />
+  </component>
+</project>
